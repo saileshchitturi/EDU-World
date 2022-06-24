@@ -1,2 +1,1 @@
-# College-Website-Template-using-HTML-CSS
-Hey there! In this project, you'll see the student portal website template. this is a very basic design, you can customize it as your need. I hope this project is helpful for you. 
+My project is the implementation of my idea to provide free content to students related to all courses. In my website, students can access some important courses which are important in all aspects. Students can get registered in those courses and complete them.Quizes are also available for the knowledge checks.They can share my website to their friends and make them register for my website. Doing so will add some extra benefits to the students.
